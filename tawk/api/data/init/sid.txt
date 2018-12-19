@@ -1,0 +1,1 @@
+96:0{"sid":"uXxVN9UKYU7MXKHvB691","upgrades":["polling"],"pingInterval":25000,"pingTimeout":120000}
